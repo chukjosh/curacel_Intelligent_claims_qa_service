@@ -462,4 +462,4 @@ Sample medical claim documents for testing can be found at: `/test_files`
 
 ---
 
-**Thank You**
+**Thank You 🙌**
