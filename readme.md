@@ -129,8 +129,8 @@ List all stored documents (metadata only).
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/chukjosh/curacel_Intelligent_claims_qa_service.git
-cd curacel_Intelligent_claims_qa_service
+git clone https://github.com/chukjosh/curacel_intelligent_claims_qa_service.git
+cd curacel_intelligent_claims_qa_service
 ```
 
 2. **Create a virtual environment**:
